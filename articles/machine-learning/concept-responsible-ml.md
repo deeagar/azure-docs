@@ -32,7 +32,19 @@ Throughout the development and use of AI systems, trust must be at the core. Tru
 
 :::image type="content" source="media/concept-responsible-ml/responsible-ml-pillars.png" alt-text="Responsible ML pillars - interpretability, differential privacy, homomorphic encryption, audit trail - Azure Machine Learning":::
 
+Microsoft has established [6 principles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/responsible-ai#responsible-ai-principles) to be taken into consideration while implementing your solution -
+- **Fairness**: AI systems should treat all people fairly.
+- **Reliability and safety**: AI systems should perform reliably and safely.
+- **Privacy and security**: AI systems should be secure and respect privacy.
+- **Inclusiveness**: AI systems should empower everyone and engage people.
+- **Transparency**: AI systems should be understandable.
+- **Accountability**: People should be accountable for AI systems.
+
+_Tip_: _A mnemonic technique to remember above six priciples: "**A**ct **F**ast **I**nstead **T**o **S**afely **R**each **S**ecured **P**erimeter". <br />
+"**S**afely **R**each" goes together as Safety and Reliability. Same logic for **S**ecured **P**erimeter for Security and Privacy._    
+
 As artificial intelligence and autonomous systems integrate more into the fabric of society, it's important to proactively make an effort to anticipate and mitigate the unintended consequences of these technologies.
+
 
 ## Interpret and explain model behavior
 
